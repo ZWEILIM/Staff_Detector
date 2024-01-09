@@ -1,10 +1,12 @@
 # Ignore images and video
-*.jpg
-*.png
 *.mp4
 
 # Ignore the virtual environment
 venv/
+Staff-Detector-1/
+data/
+
+
 
 AI Evaluation Test.pdf
 dataset.txt
