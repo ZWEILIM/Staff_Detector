@@ -1,0 +1,173 @@
+{
+    "predictions": [
+        {
+            "x": 162,
+            "y": 573,
+            "width": 111,
+            "height": 77,
+            "confidence": 0.9417843222618103,
+            "class": "Not Staff",
+            "class_id": 0,
+            "image_path": "C:\\Program Files (x86)\\Work\\FootfallCam\\data\\video_frame\\TBD\\Images_ED3\\frame1247_ori.png",
+            "prediction_type": "ObjectDetectionModel"
+        },
+        {
+            "x": 740,
+            "y": 361,
+            "width": 103,
+            "height": 99,
+            "confidence": 0.9331738948822021,
+            "class": "Not Staff",
+            "class_id": 0,
+            "image_path": "C:\\Program Files (x86)\\Work\\FootfallCam\\data\\video_frame\\TBD\\Images_ED3\\frame1247_ori.png",
+            "prediction_type": "ObjectDetectionModel"
+        },
+        {
+            "x": 603,
+            "y": 677,
+            "width": 82,
+            "height": 85,
+            "confidence": 0.930263340473175,
+            "class": "Not Staff",
+            "class_id": 0,
+            "image_path": "C:\\Program Files (x86)\\Work\\FootfallCam\\data\\video_frame\\TBD\\Images_ED3\\frame1247_ori.png",
+            "prediction_type": "ObjectDetectionModel"
+        },
+        {
+            "x": 263,
+            "y": 618,
+            "width": 70,
+            "height": 102,
+            "confidence": 0.9301131963729858,
+            "class": "Not Staff",
+            "class_id": 0,
+            "image_path": "C:\\Program Files (x86)\\Work\\FootfallCam\\data\\video_frame\\TBD\\Images_ED3\\frame1247_ori.png",
+            "prediction_type": "ObjectDetectionModel"
+        },
+        {
+            "x": 466,
+            "y": 52,
+            "width": 78,
+            "height": 105,
+            "confidence": 0.9268627166748047,
+            "class": "Not Staff",
+            "class_id": 0,
+            "image_path": "C:\\Program Files (x86)\\Work\\FootfallCam\\data\\video_frame\\TBD\\Images_ED3\\frame1247_ori.png",
+            "prediction_type": "ObjectDetectionModel"
+        },
+        {
+            "x": 722,
+            "y": 636,
+            "width": 79,
+            "height": 86,
+            "confidence": 0.9230612516403198,
+            "class": "Not Staff",
+            "class_id": 0,
+            "image_path": "C:\\Program Files (x86)\\Work\\FootfallCam\\data\\video_frame\\TBD\\Images_ED3\\frame1247_ori.png",
+            "prediction_type": "ObjectDetectionModel"
+        },
+        {
+            "x": 337,
+            "y": 146,
+            "width": 78,
+            "height": 103,
+            "confidence": 0.9148837924003601,
+            "class": "Not Staff",
+            "class_id": 0,
+            "image_path": "C:\\Program Files (x86)\\Work\\FootfallCam\\data\\video_frame\\TBD\\Images_ED3\\frame1247_ori.png",
+            "prediction_type": "ObjectDetectionModel"
+        },
+        {
+            "x": 337,
+            "y": 633,
+            "width": 75,
+            "height": 104,
+            "confidence": 0.9139740467071533,
+            "class": "Not Staff",
+            "class_id": 0,
+            "image_path": "C:\\Program Files (x86)\\Work\\FootfallCam\\data\\video_frame\\TBD\\Images_ED3\\frame1247_ori.png",
+            "prediction_type": "ObjectDetectionModel"
+        },
+        {
+            "x": 258,
+            "y": 187,
+            "width": 94,
+            "height": 82,
+            "confidence": 0.9102678298950195,
+            "class": "Not Staff",
+            "class_id": 0,
+            "image_path": "C:\\Program Files (x86)\\Work\\FootfallCam\\data\\video_frame\\TBD\\Images_ED3\\frame1247_ori.png",
+            "prediction_type": "ObjectDetectionModel"
+        },
+        {
+            "x": 192,
+            "y": 189,
+            "width": 67,
+            "height": 76,
+            "confidence": 0.9058707356452942,
+            "class": "Not Staff",
+            "class_id": 0,
+            "image_path": "C:\\Program Files (x86)\\Work\\FootfallCam\\data\\video_frame\\TBD\\Images_ED3\\frame1247_ori.png",
+            "prediction_type": "ObjectDetectionModel"
+        },
+        {
+            "x": 463,
+            "y": 585,
+            "width": 87,
+            "height": 201,
+            "confidence": 0.8936917185783386,
+            "class": "Not Staff",
+            "class_id": 0,
+            "image_path": "C:\\Program Files (x86)\\Work\\FootfallCam\\data\\video_frame\\TBD\\Images_ED3\\frame1247_ori.png",
+            "prediction_type": "ObjectDetectionModel"
+        },
+        {
+            "x": 621,
+            "y": 532,
+            "width": 91,
+            "height": 112,
+            "confidence": 0.8818019032478333,
+            "class": "Not Staff",
+            "class_id": 0,
+            "image_path": "C:\\Program Files (x86)\\Work\\FootfallCam\\data\\video_frame\\TBD\\Images_ED3\\frame1247_ori.png",
+            "prediction_type": "ObjectDetectionModel"
+        },
+        {
+            "x": 165,
+            "y": 117,
+            "width": 88,
+            "height": 72,
+            "confidence": 0.8232822418212891,
+            "class": "Not Staff",
+            "class_id": 0,
+            "image_path": "C:\\Program Files (x86)\\Work\\FootfallCam\\data\\video_frame\\TBD\\Images_ED3\\frame1247_ori.png",
+            "prediction_type": "ObjectDetectionModel"
+        },
+        {
+            "x": 290,
+            "y": 91,
+            "width": 88,
+            "height": 95,
+            "confidence": 0.7564517259597778,
+            "class": "Not Staff",
+            "class_id": 0,
+            "image_path": "C:\\Program Files (x86)\\Work\\FootfallCam\\data\\video_frame\\TBD\\Images_ED3\\frame1247_ori.png",
+            "prediction_type": "ObjectDetectionModel"
+        },
+        {
+            "x": 136,
+            "y": 199,
+            "width": 57,
+            "height": 58,
+            "confidence": 0.4920329749584198,
+            "class": "Not Staff",
+            "class_id": 0,
+            "image_path": "C:\\Program Files (x86)\\Work\\FootfallCam\\data\\video_frame\\TBD\\Images_ED3\\frame1247_ori.png",
+            "prediction_type": "ObjectDetectionModel"
+        }
+    ],
+    "image": {
+        "width": "960",
+        "height": "720"
+    }
+}

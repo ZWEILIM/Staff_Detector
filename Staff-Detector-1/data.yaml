@@ -1,0 +1,13 @@
+names:
+- Not Staff
+- Staff
+nc: 2
+roboflow:
+  license: Public Domain
+  project: staff-detector
+  url: https://universe.roboflow.com/zhong-wei-u8cav/staff-detector/dataset/1
+  version: 1
+  workspace: zhong-wei-u8cav
+test: ../test/images
+train: Staff-Detector-1/train/images
+val: Staff-Detector-1/valid/images
