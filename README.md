@@ -11,11 +11,11 @@ As a bonus task, I am asked to locate the XY coordinates of the staff when prese
 ### Install this repo
 Before start using the model, it is required to clone the repo.
 ```
-git clone 
+git clone https://github.com/ZWEILIM/Staff_Detector.git
 ```
 Go the file location.
 ```
-cd
+cd Staff_Detector
 ```
 Create the virtual environment.
 ```
