@@ -41,7 +41,7 @@ python extract_frame.py
 
 ![Original image](Document/frame0037_ori.png)
 
-![Data Annotation](Document/Data annotation.jpg)
+![Data Annotation](Document/Data_annotation.jpg)
 
 
 - Perform data augmentation on both labels and original image and split them into train, test and val.
@@ -80,7 +80,7 @@ Dataset name
 ### Export dataset
 Next after all of the data preprocessing step, the next step for me is to export the dataset and it is ready for the model training step.
 
-![Data Annotation](Document/export dataset.jpg)
+![Data Annotation](Document/export_dataset.jpg)
 
 ### Training
 Follow this [colab notebook](https://colab.research.google.com/drive/1Bbctd2_IFzEevqcyd11mhvBrQXkWdq4P?usp=sharing) step to train your model.
